@@ -1,9 +1,5 @@
 #!/usr/bin/python3
-#EmreOvunc
-
-#########################
-# pip3 install requests #
-#########################
+#pip3 install ...
 
 from multiprocessing    import Process
 from multiprocessing    import Queue
